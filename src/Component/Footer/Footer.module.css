@@ -1,0 +1,18 @@
+.footer{
+    background-color: black;
+    color: #737373;
+    padding: 15px;
+}
+.deco  {
+margin-right: 65px;
+padding-top: 50px;
+}
+li{
+    list-style:  none;
+    padding: 10px;
+
+}
+.anc{
+    color: #737373;
+    padding-left: 30px;
+}

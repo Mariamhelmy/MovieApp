@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.color{
+    background-color: #181818;
+    color: white;
+}
+
+.hola{
+    margin-right: 120px;
+}
+.conta{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.icon{
+    color: yellow;
+}
+  
+.non{
+    color: #E50914;
+
+}
